@@ -2,12 +2,9 @@
   text-align: center;
 }
 
-.mainButton{
-  border: 1px solid blue;
-  color: white;
-  background: #333;
-  font: inherit;
-  font-size: 2.3 rem;
-  
-
+.red{
+  color: red;
+}
+.bold{
+  font-size: 20pt;
 }
